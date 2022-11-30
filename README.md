@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @utartlan
 - 👀 I’m interested in Open Source Projects with JavaScript
-- 🌱 I’m currently learning Java and Spring/Spring Boot. I'm also learnining relational databases, namely MySql, SQL, HTML, CSS.
+- 🌱 I’m currently learning JavaScript and Node.js. I'm also learnining MySql, SQL, HTML, CSS.
 - 📫 You can reach me at yavor.naydenov@protonmail.com
 
 <!---
